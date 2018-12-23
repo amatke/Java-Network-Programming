@@ -1,0 +1,2 @@
+Ovo je vezba za FileOutputStream! Upisujemo u fajl!
+Ovo je vezba za FileOutputStream! Upisujemo u fajl!
